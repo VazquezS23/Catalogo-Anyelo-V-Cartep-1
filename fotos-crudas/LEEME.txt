@@ -1,0 +1,4 @@
+Pon aquí tus fotos nuevas (del celular o la compu) y corre:  npm run fotos
+Aparecerán limpias y cuadradas en  public/productos/
+Luego pon esos nombres en  lib/productos.ts  (imagen: "/productos/tu-foto.jpg").
+Nota: el script no procesa .TIF — conviértela a .jpg antes (o súbela ya en jpg/png).
