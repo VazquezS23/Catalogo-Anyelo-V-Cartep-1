@@ -128,6 +128,31 @@ export const PRODUCTOS: Producto[] = [
     facilidades:
       "Requisitos: 2 meses de depósito + 1 mes por adelantado.",
   },
+  {
+    slug: "apartamento-renta-cid-v-costa-cana",
+    nombre: "Apartamento en renta en Residencial Cid V, Costa Cana",
+    categoria: "Propiedades en renta",
+    imagen: "/productos/renta-cid-sala.jpg",
+    galeria: [
+      "/productos/renta-cid-sala.jpg",
+      "/productos/renta-cid-sala-2.jpg",
+      "/productos/renta-cid-balcon.jpg",
+      "/productos/renta-cid-habitacion.jpg",
+      "/productos/renta-cid-cocina.jpg",
+      "/productos/renta-cid-bano.jpg",
+    ],
+    paraQuien:
+      "ti que quieres mudarte a Punta Cana sin complicaciones: un apartamento amueblado y con los servicios incluidos, listo para entrar a vivir.",
+    beneficio:
+      "Múdate a un apartamento listo para entrar a vivir en Punta Cana y olvídate de las cuentas: los servicios ya vienen incluidos.",
+    caracteristicas: [
+      "2 habitaciones · 2 baños",
+      "Amueblado, en residencial con piscina",
+      "Incluye mantenimiento, internet y gas",
+    ],
+    precio: "US$1,200/mes",
+    facilidades: "No se aceptan mascotas.",
+  },
 ];
 
 /** Productos de una categoría, con el destacado primero. */
