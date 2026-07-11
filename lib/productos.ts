@@ -180,6 +180,33 @@ export const PRODUCTOS: Producto[] = [
     facilidades:
       "Versión Estándar US$375,000 · Deluxe US$409,000 (agrega piscina, área de BBQ y diseño de interior). Reserva con US$5,000, 20% a la firma, 30% durante construcción y 50% contra entrega. Entrega en 12–24 meses.",
   },
+  {
+    slug: "apartamento-renta-brisas-punta-cana",
+    nombre: "Apartamento en renta en Residencial Brisas de Punta Cana",
+    categoria: "Propiedades en renta",
+    imagen: "/productos/renta-brisas-sala.jpg",
+    galeria: [
+      "/productos/renta-brisas-sala.jpg",
+      "/productos/renta-brisas-sala-2.jpg",
+      "/productos/renta-brisas-cocina.jpg",
+      "/productos/renta-brisas-habitacion.jpg",
+      "/productos/renta-brisas-habitacion-2.jpg",
+      "/productos/renta-brisas-bano.jpg",
+      "/productos/renta-brisas-lavadero.jpg",
+    ],
+    paraQuien:
+      "ti que buscas espacio para tu familia en Punta Cana: un apartamento de 3 habitaciones en un residencial con piscina, para ponerlo a tu gusto.",
+    beneficio:
+      "Múdate con tu familia a un amplio apartamento de 3 habitaciones en Punta Cana, en un residencial con piscina y con el mantenimiento incluido.",
+    caracteristicas: [
+      "3 habitaciones + habitación de servicio, 2 baños",
+      "Residencial con piscina",
+      "Incluye mantenimiento y un aire acondicionado",
+    ],
+    precio: "US$900/mes",
+    facilidades:
+      "Sin amueblar. No se aceptan mascotas. Requisitos: 2 meses de depósito + 1 mes por adelantado.",
+  },
 ];
 
 /** Productos de una categoría, con el destacado primero. */
