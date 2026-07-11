@@ -153,6 +153,33 @@ export const PRODUCTOS: Producto[] = [
     precio: "US$1,200/mes",
     facilidades: "No se aceptan mascotas.",
   },
+  {
+    slug: "villa-kerri-plus-vista-cana",
+    nombre: "Villa en Kerri Plus, Vista Cana",
+    categoria: "Villas en venta",
+    imagen: "/productos/villa-kerri-fachada.jpg",
+    galeria: [
+      "/productos/villa-kerri-fachada.jpg",
+      "/productos/villa-kerri-exterior.jpg",
+      "/productos/villa-kerri-sala.jpg",
+      "/productos/villa-kerri-cocina.jpg",
+      "/productos/villa-kerri-habitacion.jpg",
+      "/productos/villa-kerri-habitacion-2.jpg",
+      "/productos/villa-kerri-bano.jpg",
+    ],
+    paraQuien:
+      "ti que buscas una villa en Punta Cana, para vivirla o como inversión, dentro de Vista Cana y con acceso a todas sus amenidades.",
+    beneficio:
+      "Estrena tu villa en Vista Cana, para vivirla o para invertir, con acceso a las amenidades de la comunidad: golf, playa, piscinas y más.",
+    caracteristicas: [
+      "3 habitaciones, cada una con baño y terraza",
+      "Escalera de doble altura",
+      "Dentro de Vista Cana, con acceso a todas sus amenidades",
+    ],
+    precio: "Desde US$375,000",
+    facilidades:
+      "Versión Estándar US$375,000 · Deluxe US$409,000 (agrega piscina, área de BBQ y diseño de interior). Reserva con US$5,000, 20% a la firma, 30% durante construcción y 50% contra entrega. Entrega en 12–24 meses.",
+  },
 ];
 
 /** Productos de una categoría, con el destacado primero. */
