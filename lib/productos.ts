@@ -207,6 +207,30 @@ export const PRODUCTOS: Producto[] = [
     facilidades:
       "Sin amueblar. No se aceptan mascotas. Requisitos: 2 meses de depósito + 1 mes por adelantado.",
   },
+  {
+    slug: "apartamento-ced-vi-brisas",
+    nombre: "Apartamento en Residencial Ced VI, Brisas de Punta Cana",
+    categoria: "Apartamentos en venta",
+    imagen: "/productos/apartamento-ced-sala.jpg",
+    galeria: [
+      "/productos/apartamento-ced-sala.jpg",
+      "/productos/apartamento-ced-fachada.jpg",
+      "/productos/apartamento-ced-habitacion.jpg",
+      "/productos/apartamento-ced-terraza.jpg",
+    ],
+    paraQuien:
+      "ti que quieres invertir o estrenar en Punta Cana con un presupuesto accesible, en un residencial con piscina y gym.",
+    beneficio:
+      "Estrena un apartamento nuevo en Punta Cana desde un precio muy accesible, en un residencial con piscina, gimnasio y azotea social.",
+    caracteristicas: [
+      "2 habitaciones",
+      "Piscina y gimnasio",
+      "Azotea con área social",
+    ],
+    precio: "Desde US$112,500",
+    facilidades:
+      "Separa con US$2,000, 15% a la firma del contrato, 25% durante la construcción en cómodas cuotas y 60% contra entrega. Entrega en junio de 2027.",
+  },
 ];
 
 /** Productos de una categoría, con el destacado primero. */
