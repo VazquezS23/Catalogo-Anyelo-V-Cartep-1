@@ -43,35 +43,6 @@ export const PRODUCTOS: Producto[] = [
     escasez: { tipo: "unidades", valor: "5 unidades" },
   },
   {
-    slug: "townhouse-diana-tropical-village",
-    nombre: "Townhouse en Diana Tropical Village",
-    categoria: "Townhouses",
-    imagen: "/productos/townhouse-diana-fachada.jpg",
-    galeria: [
-      "/productos/townhouse-diana-fachada.jpg",
-      "/productos/townhouse-diana-fachada-2.jpg",
-      "/productos/townhouse-diana-exterior.jpg",
-      "/productos/townhouse-diana-exterior-2.jpg",
-      "/productos/townhouse-diana-exterior-3.jpg",
-      "/productos/townhouse-diana-sala.jpg",
-      "/productos/townhouse-diana-cocina.jpg",
-      "/productos/townhouse-diana-habitacion.jpg",
-      "/productos/townhouse-diana-bano.jpg",
-    ],
-    paraQuien:
-      "ti que buscas tu propia casa en Punta Cana —para vivirla o para rentarla como inversión— con espacio para toda la familia.",
-    beneficio:
-      "Estrena tu propia casa en Punta Cana, lista para vivir o para rentar, con área de BBQ y picuzzi para disfrutar todo el año.",
-    caracteristicas: [
-      "3 habitaciones, cada una con baño privado",
-      "Habitación de servicio completa y medio baño de visita",
-      "Picuzzi y área de BBQ privados",
-    ],
-    precio: "Desde US$185,000",
-    facilidades:
-      "Separa con US$2,000, 20% a la firma del contrato, 30% durante la construcción y 50% contra entrega.",
-  },
-  {
     slug: "apartamento-balcones-de-brisas",
     nombre: "Apartamento en Balcones de Brisas de Punta Cana",
     categoria: "Apartamentos en venta",
